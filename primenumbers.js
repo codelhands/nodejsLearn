@@ -18,4 +18,4 @@ function showPrimeNumbers(lowNumber,highNumber)
     }
 }
 
-showPrimeNumbers(2,9);
+showPrimeNumbers(2,9); 
